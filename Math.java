@@ -12,6 +12,7 @@ public class Math {
 
     public int sub(int first, int second){
 
+       System.out.println("Hej, hemskt mycket hej!")
         int result = first - second;
 
         return result;
