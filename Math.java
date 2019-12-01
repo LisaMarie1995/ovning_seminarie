@@ -9,4 +9,12 @@ public class Math {
         return result;
 
     }
+
+    public int sub(int first, int second){
+
+        int result = first - second;
+
+        return result;
+
+    }
 }
